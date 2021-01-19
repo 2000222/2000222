@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Studying Automation and Artificial Intelligence. (Senior Student)
+- 🌱 Computer Vision and Robotics lover & researcher. 
+- 🤔 Looking for help with new ideas for AI research.
