@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi here 👋 Sarah Chen, dreams do come true! :notes:
 
 <!--
 **2000222/2000222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 Studying Automation and Artificial Intelligence. (Senior Student)
 - 🌱 Computer Vision and Robotics lover & researcher. 
-- 🤔 Looking for help with new ideas for AI research.
+- ✨ Looking for help with new ideas for AI projects.
+- 😄 Soon I'll start my Ph.D. study in a top world-class university.
+- 💬 Fighting everyday and create our fantastic future!
