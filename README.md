@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Studying Automation and Artificial Intelligence. (Senior Student)
+- :speak_no_evil: Studying Automation and Artificial Intelligence. (Senior Student)
 - 🌱 Computer Vision and Robotics lover & researcher. 
 - ✨ Looking for help with new ideas for AI projects.
 - 😄 Soon I'll start my Ph.D. study in a top world-class university.
-- 💬 Fighting everyday and create our fantastic future!
+- :purple_heart: Fighting everyday and create our fantastic future!
