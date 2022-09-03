@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :speak_no_evil: Studying Automation and Artificial Intelligence. (Senior Student)
+- :speak_no_evil: Studying Automation and Artificial Intelligence. (Master Student)
 - 🌱 Computer Vision and Robotics lover & researcher. 
 - ✨ Looking for cooperation with new ideas for AI projects.
 - 😄 Enjoy doing scientific research in a beautiful university.
