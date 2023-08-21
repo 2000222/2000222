@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - :speak_no_evil: Studying Automation and Artificial Intelligence. (Master Student)
-- 🌱 Computer Vision and Robotics lover & researcher. 
+- 🌱 Computer Vision and Robotics Lover & Researcher. 
 - ✨ Looking for cooperation with new ideas for AI projects.
 - 😄 Enjoy doing scientific research in a beautiful university.
 - :purple_heart: Fighting everyday and create our fantastic future!
