@@ -1,4 +1,4 @@
-### Hi here 👋 Sarah Chen, dreams do come true! :notes:
+### Hi here 👋 Sarah Chen, Dreams Do Come True! :notes:
 
 <!--
 **2000222/2000222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
