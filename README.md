@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 😄 Enjoy doing scientific research in a beautiful university.
 - :purple_heart: Fighting everyday and create our fantastic future!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2000222)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2000222)](https://github.com/anuraghazra/github-readme-stats) -->
