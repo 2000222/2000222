@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 - 🌱 Computer Vision and Robotics Lover & Researcher. 
 - ✨ Welcome for cooperation with new ideas on AI projects.
 - 😄 Enjoy doing scientific research in a beautiful city & university.
-- :purple_heart: Fighting everyday and create a fantastic future!
+- :purple_heart: Improving everyday and create a fantastic future!
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2000222)](https://github.com/anuraghazra/github-readme-stats) -->
