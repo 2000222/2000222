@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - :speak_no_evil: Studying Automation and Artificial Intelligence. (Master Over & 25 UTokyo PhD.)
-- 🌱 Computer Vision and Robotics :robot Lover & Researcher. 
+- 🌱 Computer Vision and Robotics 🤖 Lover & Researcher. 
 - ✨ Welcome for cooperation with new ideas on AI projects.
 - 😄 Enjoy doing scientific research in a beautiful city & university.
 - :purple_heart: Improving everyday and create a fantastic future!
