@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :speak_no_evil: Studying Automation and Artificial Intelligence. (Master Over & 25 UTokyo PhD.)
+- :speak_no_evil: Studying Automation and Artificial Intelligence. (25 Fall UTokyo PhD.)
 - 🌱 Computer Vision and Robotics 🤖 Lover & Researcher. 
 - ✨ Welcome for cooperation with new ideas on AI projects.
 - 😄 Enjoy doing scientific research in a beautiful city & university.
