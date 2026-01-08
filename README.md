@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :speak_no_evil: Studying Automation and Artificial Intelligence. (🎉 25 Fall UTokyo BOOST NAIS PhD 🏆.)
+- :speak_no_evil: Studying Automation and Artificial Intelligence. (🎉 25 Fall UTokyo BOOST NAIS PhD 🏆. [Only 6 students at 2025 Oct Entry!!])
 - 🌱 Computer Vision and Robotics 🤖 Lover & Researcher. 
 - ✨ Welcome for cooperation with new ideas on AI projects.
 - 😄 Enjoy doing scientific research in a beautiful city & university.
