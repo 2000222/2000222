@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - :speak_no_evil: Embodied AI and Advanced Robotics. (🎉 25 Fall UTokyo BOOST NAIS PhD 🏆. [Only 6 students at 2025 Oct Entry!!])
-- 🌱 Computer Vision and Robotics 🤖 Lover & Researcher. 
+- 🌱 Computer Vision and Robot🤖🤖 Lover & Researcher. 
 - ✨ Welcome for cooperation with new ideas on AI projects.
 - 😄 Enjoy doing scientific research in a beautiful city & university.
 - :purple_heart: Improving everyday and create a fantastic future!
